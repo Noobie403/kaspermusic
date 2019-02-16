@@ -1,0 +1,6 @@
+owner=472799389144842241
+prefix=k
+game= Type khelp.
+stayinchannel=true
+songinstatus=false
+token=NTQ2MjkyNzg2OTY2NTYwNzgx.D0mGdQ.vR6Si3x-Rqx3l6US9bMDL4ut2dk
